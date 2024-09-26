@@ -15,4 +15,9 @@
   <li>Light untuk memberi Pencahayaan</li>
 </ul>
 
-<p></p>
+<p>Beberapa fitur yang diberikan pada drone ini seperti </p>
+<ul>
+  <li>Fish Tracking atau Pelacakan Objek</li>
+
+  [Roboflow Universe public Aquarium dataset](https://universe.roboflow.com/brad-dwyer/aquarium-combined)
+</ul>
