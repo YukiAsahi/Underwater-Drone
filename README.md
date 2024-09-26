@@ -5,11 +5,11 @@
 ![Image Alt](https://github.com/YukiAsahi/Underwater-Drone/blob/74ef37ef2ffe9954862e2753407889d24819e77c/Previewphoto/overview.png)
 
 <p>Seperti gambar diatas projek ini menggunakan 4 Komponen Utama yaitu :</p>
-<ol>
+<ul>
   <li>Electronic Tray</li>
   <li>Raspberry pi sebagai salah satu komponen Internet of Things ( IoT ) yang dapat diaplikasikan sebagai pengendali jarak jauh dengan jaringan internet</li>
   <li>Camera untuk mengirim visi atau penglihatan dari drone</li>
   <li>Light untuk memberi Pencahayaan</li>
-</ol>
+</ul>
 
 <p></p>
